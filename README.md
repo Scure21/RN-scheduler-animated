@@ -6,3 +6,7 @@ A simple scheduler app built with React Native and Expo, using Reanimated for la
 
 - Add/remove hours for each day
 - Toggle to show/hide day blocks
+
+
+https://github.com/user-attachments/assets/423a6ffe-8368-47f0-be37-54245a897931
+
